@@ -156,6 +156,10 @@ main {
 Navbar
 ===============
 */
+.header {
+  text-align: center;
+  margin-top: 5rem;
+}
 nav {
   background: var(--clr-white);
   box-shadow: var(--light-shadow);
